@@ -26,7 +26,7 @@ require (
 	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/raff/goble v0.0.0-20190909174656-72afc67d6a99 // indirect
-	github.com/sirupsen/logrus v1.5.0 // indirect
+	github.com/sirupsen/logrus v1.8.3 // indirect
 	golang.org/x/sys v0.8.0 // indirect
 )
 
