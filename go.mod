@@ -1,6 +1,6 @@
 module github.com/teslamotors/vehicle-command
 
-go 1.20
+go 1.25.0
 
 require (
 	github.com/99designs/keyring v1.2.2
@@ -27,7 +27,7 @@ require (
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/raff/goble v0.0.0-20190909174656-72afc67d6a99 // indirect
 	github.com/sirupsen/logrus v1.8.3 // indirect
-	golang.org/x/sys v0.8.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
 )
 
 replace github.com/JuulLabs-OSS/cbgo => github.com/tinygo-org/cbgo v0.0.4
